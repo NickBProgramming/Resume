@@ -17,7 +17,7 @@
     
 ### Skills
 | Skills | Description |
-| ------ | ----------- |
+| -------------- | ----------- |
 | Java   | Currently learning data structures, have created: chat systems, games, and commercial software.|
 | C++    | Currently learning C++, I've created all sorts of programs ranging from simple salary calulators, to custom chat systems. |
 | Phone Repair | Experience in repairing: Iphone: 6-xr , Galaxy note: 6-10 |
