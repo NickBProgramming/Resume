@@ -1,12 +1,12 @@
 title: Nicholas Brown
 theme: jekyll-theme-cayman
-author: GitHub User
-email: your-email@domain.com
+author: Java/C++ Coder
+email: NickBProgramming@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my resume! If your interested or have any questions, please let me know!
 
 # social links
 twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  NickBProgramming
 
 show_excerpts: true # set to false to remove excerpts on the homepage
