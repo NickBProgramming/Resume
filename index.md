@@ -17,11 +17,11 @@
     
 ### Skills
 | Skills | Description |
-| -------------- | ----------- |
-| Java   | Currently learning data structures, have created: chat systems, games, and commercial software.|
-| C++    | Currently learning C++, I've created all sorts of programs ranging from simple salary calulators, to custom chat systems. |
-| Phone Repair | Experience in repairing: Iphone: 6-xr , Galaxy note: 6-10 |
-| Website Design | Worked with numerous clients to create all kinds of websites to fit their needs. |
+ -------------- | ----------- 
+ Java   | Currently learning data structures, have created: chat systems, games, and commercial software.
+ C++    | Currently learning C++, I've created all sorts of programs ranging from simple salary calulators, to custom chat systems. 
+ Phone Repair | Experience in repairing: Iphone: 6-xr , Galaxy note: 6-10 
+ Website Design | Worked with numerous clients to create all kinds of websites to fit their needs. 
 
 ### Honors and Awards
 - Phi Theta Kappa Member, 2018
