@@ -1,7 +1,7 @@
 # Resume
 
 ## Contact Information
-- Email: [NickBProgramming@gmail.com](NickBProgramming@gmail.com;)
+- Email: [NickBProgramming@gmail.com](NickBProgramming@gmail.com)
 - [GitHub](https://github.com/NickBProgramming)
 
 ### Education
