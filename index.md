@@ -3,7 +3,7 @@
 
 <h2> Contact Information </h2>
 
-  <a href="mailto:NickBProgramming@gmail.com?subject=[GitHub]">
+  <a href="mailto:NickBProgramming@gmail.com?subject=Resume Contact">
     <img alt="Donate" src="https://img.shields.io/badge/Contact-Email-green.svg" />
   </a>
   <a href="https://github.com/NickBProgramming">
