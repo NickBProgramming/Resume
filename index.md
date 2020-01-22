@@ -5,25 +5,30 @@
 - [GitHub](https://github.com/NickBProgramming)
 
 ### Education
-+ Miracosta College CA, Computer Science - Fall 2018 - fall 2019
++ El Camino High School CA, GED
++ Miracosta College CA, Computer Science - Fall 2018 - Present
+  - Currently enrolled majoring in computer science, minoring in cyber security.
 
 ### Work Experience
-+ Legoland, CA
++ Legoland, CA  May 2016 - Augest 2016
   - Admissions Associate
     * Customer Service: Learned how to communicate and work with guests and employees to create an amazing experience for the guests
-+ Website Design
-  - Student final: Commercial Website
-    -Created a professional website for 2 companys around Oceanside.
++ Website Design Augest 2016 - May 2017
+  - Student Work: Commercial Websites 
+    * Created professional websites for numerous around San Diego's north county.
     
 ### Skills
  Skill | Description 
 :---:|---
- Java   | Currently learning data structures, have created: chat systems, games, and commercial software.
- C++    | Currently learning C++, I've created all sorts of programs ranging from simple salary calulators, to custom chat systems. 
- Phone Repair | Experience in repairing: Iphone: 6-xr , Galaxy note: 6-10 
- Website Design | Worked with numerous clients to create all kinds of websites to fit their needs. 
+ Java   | 2 Years of experience, continuing: Algorithms, Data structures
+ C++    | 1/2 Year of experience, continuing
+ Scrum  | 2 Years of experience in Scrum depelopment
+ Git    | 2 Years of expeience in using Git/Github
+ Phone Repair | 3 Years of experience
+ Website Design | 1 Year of experience: HTML, CSS, Wordpress, Search Optimization
 
 ### Honors and Awards
+- President's List member, 2018
 - Phi Theta Kappa Member, 2018
 - Certificate of competency in Graphic Design, 2017
 - Certificate of competency in Web Design, 2016
