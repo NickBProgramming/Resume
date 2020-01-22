@@ -2,7 +2,12 @@
 
 ## Contact Information
 - Email: [NickBProgramming@gmail.com](NickBProgramming@gmail.com)
-- [GitHub](https://github.com/NickBProgramming)
+<div align="center">
+  <a href="https://github.com/NickBProgramming">
+    <img alt="Donate" src="https://img.shields.io/badge/Contact-Github-blue.svg" />
+  </a>
+  
+</div>
 
 ### Education
 + El Camino High School CA, GED
