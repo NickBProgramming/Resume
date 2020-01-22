@@ -3,6 +3,9 @@
 ## Contact Information
 - Email: [NickBProgramming@gmail.com](NickBProgramming@gmail.com)
 <div align="center">
+  <a href="mailto:NickBProgramming@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">
+    <img alt="Donate" src="https://img.shields.io/badge/Contact-Email-green.svg" />
+  </a>
   <a href="https://github.com/NickBProgramming">
     <img alt="Donate" src="https://img.shields.io/badge/Contact-Github-blue.svg" />
   </a>
