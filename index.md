@@ -21,7 +21,7 @@
 + Legoland, CA  May 2016 - Augest 2016
   - Admissions Associate
     * Customer Service: Learned how to communicate and work with guests and employees to create an amazing experience for the guests
-+ Website Design Augest 2016 - May 2017
++ Website Design August 2016 - May 2017
   - Student Work: Commercial Websites 
     * Created professional websites for numerous around San Diego's north county.
     
