@@ -14,9 +14,10 @@
 
 ### Education
 + El Camino High School CA, GED
-+ Miracosta College CA, Computer Science - Fall 2018 - Present
++ Miracosta College CA, Computer Science - Fall 2018 - May 2020
   - Currently enrolled majoring in computer science, minoring in cyber security.
-
++ Red Rocks Community College, BAS: Secure Software Development - June 2020 - Present
+  - Currently enrolled in their Bachelors of Applied Science in Secure Software Development.
 ### Work Experience
 + Legoland, CA  May 2016 - Augest 2016
   - Admissions Associate
@@ -28,8 +29,11 @@
 ### Skills
  Skill | Description 
 :---:|---
- Java   | 2 Years of experience, continuing: Algorithms, Data structures
- C++    | 1/2 Year of experience, continuing
+ Java   | 2 Years of experience, inculding: Algorithms & Data structures
+ C++    | 1.5 Years of experience.
+ Python | .5 Years of experience.
+ SQL    | Starting to learn sql
+ Unix   | Starting to learn Unix
  Scrum  | 2 Years of experience in Scrum depelopment
  Git    | 2 Years of expeience in using Git/Github
  Phone Repair | 3 Years of experience
